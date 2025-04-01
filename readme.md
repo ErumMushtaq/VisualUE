@@ -3,8 +3,9 @@ This repository will hold the official code of Visual Uncertainty framework intr
 <div align="center">
   <img src="VisualUE.jpg" width="50%" />
 </div>
-
-
+ 
+ 
+---
 🛠 Environment Setup
 
 Set up a new enviornment with python version 3.11, and install the following packages
@@ -20,7 +21,7 @@ To run the generation script for LLaVA-7B or LLaVA-13B:
 
 1. Update the dataset path folders in notebooks/gen_llava7b_aokvqa.ipynb.
 
-2. Set OpenAI API keys in notebooks/utils/LAVE/openai_config_glamor.yaml.
+2. Set OpenAI API keys in notebooks/utils/LAVE/openai_config_glamor.yaml file.
 
 📊 Evaluation
 
