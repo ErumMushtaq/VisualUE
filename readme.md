@@ -4,7 +4,7 @@ This repository will hold the official code of Visual Uncertainty framework intr
   <img src="VisualUE.jpg" width="50%" />
 </div>
  
- 
+
 ---
 🛠 Environment Setup
 
@@ -32,7 +32,18 @@ To run the Uncertainty Estimation (UE) baselines on the generated responses:
 2. Execute the evaluation script notebooks/eval_llava7b_aokvqa.ipynb to obtain AUROC and PRC scores of various UE baselines.
 
 
+## Citation
 
+If you use our code or find our work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{visualUE2025,
+  author = {Kiana Avestimehr, Emily Aye, Zalan Fabian, Erum Mushtaq},
+  title = {Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty},
+  booktitle = {ICLR Workshop: Quantify Uncertainty and Hallucination in Foundation Models: The Next Frontier in Reliable AI},
+  year = {2025},
+  url = {https://openreview.net/pdf?id=2truTpHZkV}
+}
 
 
 
