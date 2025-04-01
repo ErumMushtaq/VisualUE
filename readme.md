@@ -1,7 +1,7 @@
 # Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty
 This repository will hold the official code of Visual Uncertainty framework introduced in our ICLR 2025 workshop paper "Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty".
 <div align="center">
-  <img src="VisualUE.jpg" width="60%" />
+  <img src="VisualUE.jpg" width="50%" />
 </div>
 
 
