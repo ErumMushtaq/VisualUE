@@ -1,0 +1,19 @@
+# Python
+*.pyc
+__pycache__
+*.egg-info
+dist
+*.csv
+*.tsv
+
+
+answer_files_*
+build
+result
+cuda_install.sh
+cuda_11.6.2_510.47.03_linux.run
+
+.vscode/launch.json
+*wandb
+
+*.pth
