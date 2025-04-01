@@ -1,13 +1,16 @@
 # Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty
 This repository will hold the official code of Visual Uncertainty framework introduced in our ICLR 2025 workshop paper "Detecting Unreliable Responses in Generative Vision-Language Models via Visual Uncertainty".
-![](/utils/VisualUE.pdf)
+![](/notebooks/utils/VisualUE.pdf)
 
 🛠 Environment Setup
+
 Set up a new enviornment with python version 3.11,
+
 ```pip install -r requirements.txt    ```
 
 
 📂 Notebook for Generation and Evaluation Scripts
+
 📝 Generation
 
 To run the generation script for LLaVA-7B or LLaVA-13B:
